@@ -33,9 +33,7 @@
   - Supabase project (or the provided credentials)
     
   ## DEMO
-  <video controls>
-  <source src="./Halleyx-done.mp4" type="video/mp4">
-  </video>
+  [Watch Video](./Halleyx-done.mp4)
   
   ## Setup
 
