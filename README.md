@@ -31,7 +31,8 @@
   - Python 3.10+
   - Node.js 18+
   - Supabase project (or the provided credentials)
-
+  ## DEMO
+  [Watch Video](./Halleyx-done.mp4)
   ## Setup
 
   ### 1. Database Setup
